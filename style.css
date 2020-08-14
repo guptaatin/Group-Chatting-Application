@@ -1,0 +1,36 @@
+body{
+	background-color: #dc143c;
+}
+
+#main{
+	background-color: #fff;
+	height: 450px;
+	margin-top: 100px;
+	border-radius: 20px;
+}
+
+#info{
+	margin-left: 20px;
+	margin-top: 2px;
+}
+
+input[type=text]{
+	width: 260px;
+	box-sizing: border-box;
+	border: 2px solid #dc143c;
+	border-radius: 4px;
+}
+
+input[type=email]{
+	width: 350px;
+	box-sizing: border-box;
+	border: 2px solid #dc143c;
+	border-radius: 4px;
+}
+
+input[type=password]{
+	width: 260px;
+	box-sizing: border-box;
+	border: 2px solid #dc143c;
+	border-radius: 4px;
+}
